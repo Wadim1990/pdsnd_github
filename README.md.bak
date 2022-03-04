@@ -20,3 +20,6 @@ What is the earliest, most recent, most common year of birth?
 
 ### Question 2
 What is the average travel time for users in different cities?
+
+### Question 3
+What is the total travel time for users in different cities?
