@@ -18,3 +18,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Question 1
 What is the earliest, most recent, most common year of birth?
 
+### Question 2
+What is the average travel time for users in different cities?
